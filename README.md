@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="Khorcha Logo" width="120" height="120" />
+  <img src="logo.png" alt="Khorcha Logo" width="120" height="120" />
   <h1>Khorcha</h1>
   <p><strong>A beautifully engineered, iOS-native feeling expense tracker built with web technologies.</strong></p>
   
